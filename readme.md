@@ -45,6 +45,7 @@ A continuación, se presentan los principales hallazgos y los indicadores clave 
 
    ![Variación Porcentual](images/vaiporc.png) En términos de crecimiento porcentual año a año se observa el mayor pico en 2018 en un 14%, una posterior caída cerca al 4% y una recuperación en pandemia hasta casi superar el 10% de crecimiento en 2021. En promedio, la penetración ha crecido al 7.8% anual
 
+El análisis reveló que existen 17 provincias en Argentina con una penetración de internet inferior al 60%. Estas provincias representan oportunidades de crecimiento para la empresa, ya que sugieren la necesidad de mejorar la infraestructura, ampliar la conectividad y desarrollar estrategias de venta adaptadas a cada región. El promedio de penetración en estas 17 provincias es del 39%, lo que indica un margen significativo para el crecimiento y la expansión de los servicios de internet.
 
 ### * **Acceso a Internet por Banda Ancha Fija y Dial Up**
 
@@ -54,6 +55,8 @@ A continuación, se presentan los principales hallazgos y los indicadores clave 
 ![Comparación Bandas](images/compbandas.png) El acceso por Banda Ancha Fija en Argentina corresponde al: 99.72 
  El acceso por Dial up en Argentina corresponde al: 0.24
 
+Los resultados muestran que el acceso a internet por banda ancha fija en Argentina es muy alto, alcanzando el 99.72%. Por otro lado, el acceso por Dial Up es prácticamente nulo, representando solo el 0.24%. Estos datos confirman la preferencia de los usuarios por la banda ancha fija y la necesidad de enfocar los esfuerzos de la empresa en mejorar y ampliar este tipo de conexión.
+
 ### * **Crecimiento en conexiones**
 
    - El crecimiento en conexiones se ha dado en la velocidad de más de 30 Mbps en los últimos años.
@@ -61,6 +64,7 @@ A continuación, se presentan los principales hallazgos y los indicadores clave 
 
 ![Crecimiento en conexiones](images/creccone.png) La velocidad de conexión preferida por los usuarios se sitúa por arriba de los 30Mbps
 
+El análisis revela un crecimiento significativo en las conexiones de internet con velocidades superiores a 30 Mbps en los últimos años. Esta tendencia debe ser considerada al desarrollar estrategias de penetración en el mercado para el servicio de internet fijo por banda ancha. Es importante destacar que los usuarios demandan velocidades más altas, lo que sugiere la necesidad de ofrecer una conexión rápida y estable para satisfacer sus necesidades
 
 ### * **Tecnologías de conectividad**
 
@@ -72,6 +76,7 @@ A continuación, se presentan los principales hallazgos y los indicadores clave 
 
    ![Crecimiento por Tecnología](images/crecimientoxtec.png) Crecimiento de las tecnologías de banda ancha
 
+La conectividad por fibra óptica ha experimentado un crecimiento notable y ha reemplazado gradualmente a otras tecnologías. Entre los años 2018 y 2019, la fibra óptica creció alrededor del 200%, mientras que las tecnologías de menor velocidad experimentaron una disminución. Entre 2021 y 2022, las conexiones por cablemodem sufrieron una caída del -30%, mientras que las conexiones de fibra óptica continuaron creciendo. Estos resultados sugieren que la empresa debe considerar invertir en infraestructura de fibra óptica para mantenerse actualizada con la demanda del mercado y ofrecer tecnología de punta a sus clientes.
 
 ### * **Inversión en infraestructura de fibra óptica**
 
@@ -91,58 +96,21 @@ A continuación, se presentan los principales hallazgos y los indicadores clave 
 
 ![Variación Porcentual de Ingresos año a año](images/ingresoporcentual.png) La variación año a año de los ingresos decreció aceleradamente en los últimos años. En otras palabras, los ingresos del sector experimentaron un crecimiento cada vez más lento o incluso una disminución en su aumento a lo largo del tiempo.
 
-
+Durante el período comprendido entre 2017 y 2020, los ingresos por la prestación del servicio experimentaron un crecimiento anual superior al 45%. Sin embargo, se espera que el crecimiento porcentual de los ingresos disminuya en los próximos años a medida que la penetración del servicio de internet fijo en Argentina se expanda. Esto puede atribuirse a la madurez del mercado y a la alta competencia en el sector. Es fundamental que la empresa ajuste su estrategia comercial y busque oportunidades de crecimiento en otros segmentos o mediante servicios personalizados.
 
 ### * **Viviendas sin internet**
-
 
    - En el año 2022, se identificaron 4.677.266 viviendas sin acceso a internet, lo que representa el 26% del total.
    - Solo en la provincia de Buenos Aires, hay 1.522.728 viviendas sin internet, lo que corresponde al 35% del total de viviendas sin acceso a internet.
 
 ![Viviendas sin internet en 2022](images/vivnoint.png) Encontramos en este gráfico las provincias con su respectivo porcentaje de viviendas sin internet. Si bien la Provincia de Buenos Aires tiene un porcentaje que podría considerarse bajo respecto de la media, es en donde se concentran más hogares concentrados, por lo que representa una importante cuota de mercado. **Se encuentra una cuota de mercado importante a la que se puede llegar en Argentina, teniendo en cuenta que el 26% de los hogares aún no cuentan con acceso a internet.**
 
-## Reporte de Análisis y Funcionalidad de los KPIs
-
-El análisis se realizó utilizando dashboards interactivos, los cuales permitieron explorar los datos de manera visual y analizar los KPIs sugeridos. El informe completo con los gráficos y resultados se encuentra adjunto junto con este README.
-
-El reporte de análisis incluye:
-
-- Visualizaciones que muestran la penetración de internet por provincia, el crecimiento de las tecnologías de conectividad y la distribución de viviendas sin acceso a internet.
-- Análisis detallado de los KPIs identificados, incluyendo las implicaciones y recomendaciones para la empresa.
+En el año 2022 se identificaron 4.677.266 viviendas en Argentina sin acceso a internet, lo que representa el 26% del total de hogares. Es importante destacar que solo en la provincia de Buenos Aires se registran 1.522.728 viviendas sin internet, lo que corresponde al 35% del total de viviendas sin acceso a internet. Por lo que además de las 17 provincias con penetración inferior al 60%, la provincia de Buenos Aires tiene una buena porción de mercado por ser captado.
 
 ## Conclusiones
 
-El análisis completo realizado proporciona una visión integral del comportamiento del sector de las telecomunicaciones a nivel nacional. Los hallazgos y los KPIs identificados permiten a la empresa tomar decisiones informadas para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y ofrecer soluciones personalizadas a sus posibles clientes.
+El análisis completo realizado ha proporcionado información valiosa sobre el comportamiento del sector de la conexión a internet fijo en Argentina. Los indicadores clave de rendimiento (KPIs) permiten a la empresa identificar áreas de mejora en la prestación del servicio, oportunidades de crecimiento y plantear soluciones personalizadas para sus posibles clientes. Para mantenerse competitiva en el mercado y brindar una buena calidad de servicios, es esencial que la empresa priorice la mejora de infraestructura, amplíe la conectividad y ofrezca tecnologías de vanguardia, como la fibra óptica, para satisfacer las demandas de los usuarios y seguir creciendo en el futuro.
 
 ¡Gracias por su atención!
 
 [Adjunto: Notebook con el EDA](EDA.ipynb)
-
-
-
-
-
-OJOOOOOOOO PONER ESTO EN CADA KPI Y LUEGO MEJORAR LAS CONCLUSIONES:
-
-Conclusiones del Análisis y Funcionalidad de los KPIs
-Tras realizar un análisis exhaustivo de los datos proporcionados sobre el comportamiento del sector de las telecomunicaciones a nivel nacional, se han obtenido varios hallazgos significativos y se han calculado indicadores clave de rendimiento (KPIs) que ofrecen información valiosa para la empresa prestadora de servicios.
-
-1. Penetración de internet por provincia
-El análisis reveló que existen 17 provincias en Argentina con una penetración de internet inferior al 60%. Estas provincias representan oportunidades de crecimiento para la empresa, ya que sugieren la necesidad de mejorar la infraestructura, ampliar la conectividad y desarrollar estrategias de venta adaptadas a cada región. El promedio de penetración en estas 17 provincias es del 39%, lo que indica un margen significativo para el crecimiento y la expansión de los servicios de internet.
-
-2. Acceso a Internet por Banda Ancha Fija y Dial Up
-Los resultados muestran que el acceso a internet por banda ancha fija en Argentina es muy alto, alcanzando el 99.72%. Por otro lado, el acceso por Dial Up es prácticamente nulo, representando solo el 0.24%. Estos datos confirman la preferencia de los usuarios por la banda ancha fija y la necesidad de enfocar los esfuerzos de la empresa en mejorar y ampliar este tipo de conexión.
-
-3. Crecimiento en conexiones
-El análisis revela un crecimiento significativo en las conexiones de internet con velocidades superiores a 30 Mbps en los últimos años. Esta tendencia debe ser considerada al desarrollar estrategias de penetración en el mercado para el servicio de internet fijo por banda ancha. Es importante destacar que los usuarios demandan velocidades más altas, lo que sugiere la necesidad de ofrecer una conexión rápida y estable para satisfacer sus necesidades.
-
-4. Tecnologías de conectividad
-La conectividad por fibra óptica ha experimentado un crecimiento notable y ha reemplazado gradualmente a otras tecnologías. Entre los años 2018 y 2019, la fibra óptica creció alrededor del 200%, mientras que las tecnologías de menor velocidad experimentaron una disminución. Entre 2021 y 2022, las conexiones por cablemodem sufrieron una caída del -30%, mientras que las conexiones de fibra óptica continuaron creciendo. Estos resultados sugieren que la empresa debe considerar invertir en infraestructura de fibra óptica para mantenerse actualizada con la demanda del mercado y ofrecer tecnología de punta a sus clientes.
-
-5. Ingresos por la Prestación del Servicio
-Durante el período comprendido entre 2017 y 2020, los ingresos por la prestación del servicio experimentaron un crecimiento anual superior al 45%. Sin embargo, se espera que el crecimiento porcentual de los ingresos disminuya en los próximos años a medida que la penetración del servicio de internet fijo en Argentina se expanda. Esto puede atribuirse a la madurez del mercado y a la alta competencia en el sector. Es fundamental que la empresa ajuste su estrategia comercial y busque oportunidades de crecimiento en otros segmentos o mediante servicios personalizados.
-
-6. Viviendas sin internet
-En el año 2022 se identificaron 4.677.266 viviendas en Argentina sin acceso a internet, lo que representa el 26% del total de viviendas. Es importante destacar que solo en la provincia de Buenos Aires se registran 1.522.728 viviendas sin internet, lo que corresponde al 35% del total de viviendas sin acceso a internet. Estos datos resaltan la necesidad de expandir la cobertura y mejorar la infraestructura para garantizar el acceso equitativo a los servicios de internet en todo el país.
-
-En conclusión, el análisis realizado ha proporcionado información valiosa sobre el comportamiento del sector de las telecomunicaciones a nivel nacional. Los indicadores clave de rendimiento (KPIs) permiten a la empresa identificar áreas de mejora, oportunidades de crecimiento y plantear soluciones personalizadas para sus posibles clientes. Para mantenerse competitiva en el mercado y brindar una buena calidad de servicios, es esencial que la empresa priorice la mejora de infraestructura, amplíe la conectividad y ofrezca tecnologías de vanguardia, como la fibra óptica, para satisfacer las demandas de los usuarios y seguir creciendo en el futuro.
